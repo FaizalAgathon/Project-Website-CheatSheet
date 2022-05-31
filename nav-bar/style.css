@@ -1,0 +1,50 @@
+body{
+    background-color: #252A34;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container{
+    margin: -10px -10px 0 -10px;
+    padding: 20px 20px;
+    font-size: 50px;
+    
+    background-size: 100px;
+    text-decoration: none;
+}
+
+.container{
+    color: white;
+    background-color: #08D9D6;
+}
+
+.fa-google{
+    padding-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.fa-github{
+    padding-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.fa-facebook{
+    padding-right: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.fa-discord{
+    padding-right: 30px;
+    text-decoration: none;
+    color: white;
+}
